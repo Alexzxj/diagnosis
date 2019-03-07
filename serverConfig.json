@@ -1,0 +1,10 @@
+{
+    "servers": [
+      {"isEnable":true, "server":"test1", "args":""},
+      {"isEnable":true, "server":"test2", "args":""},
+      {"isEnable":true, "server":"PLAT_SYS", "args":""},
+      {"isEnable":true, "server":"DAIG_SER", "args":""},
+      {"isEnable":true, "server":"DAIG_SYS", "args":""},
+      {"isEnable":true, "server":"PLAT_MSG", "args":""}
+    ]
+}

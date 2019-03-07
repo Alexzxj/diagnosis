@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="1748dd15-07bc-4e04-8721-c9b5ca138a8c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/magpie$04_iternext.coverage" NAME="04-iter函数和next函数的使用 Coverage Results" MODIFIED="1536830275536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+    <SUITE FILE_PATH="coverage/magpie$09_Queue.coverage" NAME="09-Queue的演练 Coverage Results" MODIFIED="1536825213746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/07-进程/4-代码/day03" />
+    <SUITE FILE_PATH="coverage/magpie$06_.coverage" NAME="06-生成器 Coverage Results" MODIFIED="1536830481864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+    <SUITE FILE_PATH="coverage/magpie$09_send.coverage" NAME="09-send方法使用 Coverage Results" MODIFIED="1536830824217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+    <SUITE FILE_PATH="coverage/magpie$captcha.coverage" NAME="captcha Coverage Results" MODIFIED="1532913162267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/Captcher" />
+    <SUITE FILE_PATH="coverage/magpie$02_queue.coverage" NAME="02-进程池中的queue的使用 Coverage Results" MODIFIED="1536825411704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/08-飞鸽发送文件/4-代码/day04" />
+    <SUITE FILE_PATH="coverage/magpie$07_.coverage" NAME="07-生成器完成斐波那契 Coverage Results" MODIFIED="1536830543213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+    <SUITE FILE_PATH="coverage/magpie$magpie.coverage" NAME="magpie Coverage Results" MODIFIED="1545034188578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/magpie$02_.coverage" NAME="02-判断是否是可迭代对象 Coverage Results" MODIFIED="1536825701290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+    <SUITE FILE_PATH="coverage/magpie$xx.coverage" NAME="xx Coverage Results" MODIFIED="1536744311303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/magpie$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1531702424127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/Captcher" />
+    <SUITE FILE_PATH="coverage/magpie$22222.coverage" NAME="22222 Coverage Results" MODIFIED="1531702702755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/Captcher" />
+    <SUITE FILE_PATH="coverage/magpie$33333.coverage" NAME="33333 Coverage Results" MODIFIED="1531703580868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util/Captcher" />
+    <SUITE FILE_PATH="coverage/magpie$12_gevent.coverage" NAME="12-gevent的使用 Coverage Results" MODIFIED="1536807213718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+    <SUITE FILE_PATH="coverage/magpie$01_.coverage" NAME="01-进程池 Coverage Results" MODIFIED="1536825332466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/小军/python相关/HM/08-飞鸽发送文件/4-代码/day04" />
+    <SUITE FILE_PATH="coverage/magpie$xj.coverage" NAME="xj Coverage Results" MODIFIED="1536721876196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DAIG_SYS.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/DAIG_SYS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="1455" column="14" lean-forward="true" selection-start-line="1455" selection-start-column="14" selection-end-line="1455" selection-end-column="14" />
+              <folding>
+                <element signature="e#50052#53795#0" expanded="false" />
+                <element signature="e#58979#64213#0" expanded="false" />
+                <element signature="e#64254#65599#0" expanded="false" />
+                <element signature="e#65636#67861#0" expanded="false" />
+                <element signature="e#67928#71735#0" expanded="false" />
+                <element signature="e#71808#76739#0" expanded="false" />
+                <element signature="e#76817#80164#0" expanded="false" />
+                <element signature="e#80237#81257#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emailTpl.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/emailTpl.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emailCode.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/emailCode.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonDag.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/CommonDag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2114">
+              <caret line="219" column="32" lean-forward="false" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3426">
+              <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sysConfig555.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sysConfig555.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sysConfig.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sysConfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonDag.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servers/DAIG_SER/CommonDag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DECIMAL</find>
+      <find>search_model_count_power</find>
+      <find>report_datas_statistic</find>
+      <find>degree_info1</find>
+      <find>getAnswerInfo</find>
+      <find>fetchall</find>
+      <find>get_report_datas</find>
+      <find>get_report_info_compare</find>
+      <find>re.match(r'^[a-z0-9][\w.\-]*@[a-z0-9\-]+(\.[a-z]{2,5}){1,2}$', datas['id']</find>
+      <find>login</find>
+      <find>getUserTestAllInfo</find>
+      <find>get_model_power</find>
+      <find>datas['eid']</find>
+      <find>update_model_score</find>
+      <find>getQuestionInfo</find>
+      <find>get_relation_power_and_level</find>
+      <find>_questionnaire_q_power_value</find>
+      <find>update</find>
+      <find>扁鹊</find>
+      <find>_questionnaire_q_test_attribute</find>
+      <find>resetPasswordByEmail</find>
+      <find>%</find>
+      <find>sms</find>
+      <find>send</find>
+      <find>华制诊断云</find>
+      <find>MAIL_DEFAULT_SENDER</find>
+      <find>CONCAT</find>
+      <find>concat</find>
+      <find>getEnterpriseTestAllInfo</find>
+      <find>get_all_enterprise</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>update</replace>
+      <replace>expectData</replace>
+      <replace>datetime</replace>
+      <replace>_questionnaire_q_test_attribute</replace>
+      <replace>re.compile(r&quot;^1[3456789]\d{9}$&quot;).match(datas['mobile'])</replace>
+      <replace>degree_info2</replace>
+      <replace>re.match(r'^[a-z0-9][\w.\-]*@[a-z0-9\-]+(\.[a-z]{2,5}){1,2}$', datas['id'], re.I</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/util/SysHelp.py" />
+        <option value="$USER_HOME$/Desktop/DAIG_SYS.py" />
+        <option value="$PROJECT_DIR$/util/Captcher/captcha.py" />
+        <option value="$PROJECT_DIR$/util/Captcher/1111.py" />
+        <option value="$PROJECT_DIR$/util/Captcher/22222.py" />
+        <option value="$PROJECT_DIR$/util/Captcher/33333.py" />
+        <option value="$PROJECT_DIR$/util/Captcher/captch.py" />
+        <option value="$PROJECT_DIR$/util/SessionHelper.py" />
+        <option value="$PROJECT_DIR$/serverConfig.json" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SER/CommonDag.py" />
+        <option value="$PROJECT_DIR$/util/DBHelper.py" />
+        <option value="$PROJECT_DIR$/servers/test1/test1.py" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SYS/emailTpl.html" />
+        <option value="$PROJECT_DIR$/sysConfig1.json" />
+        <option value="$PROJECT_DIR$/sysConfig.json" />
+        <option value="$PROJECT_DIR$/xj.py" />
+        <option value="$PROJECT_DIR$/xx.py" />
+        <option value="G:/小军/python相关/HM/10-协程/04-代码/day06/12-gevent的使用.py" />
+        <option value="G:/小军/python相关/HM/07-进程/4-代码/day03/09-Queue的演练.py" />
+        <option value="G:/小军/python相关/HM/10-协程/04-代码/day06/04-iter函数和next函数的使用.py" />
+        <option value="G:/小军/python相关/HM/10-协程/04-代码/day06/09-send方法使用.py" />
+        <option value="$PROJECT_DIR$/util/SMS/sms.py" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SYS/DAIG_SYSDao.py" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SER/DAIG_SERDao.py" />
+        <option value="$PROJECT_DIR$/IBUS.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SER/DAIG_SER.py" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SYS/CommonDag.py" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SYS/DAIG_SYS.py" />
+        <option value="$PROJECT_DIR$/servers/DAIG_SYS/config.py" />
+        <option value="$USER_HOME$/Desktop/config.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1920" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="magpie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magpie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magpie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magpie" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magpie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magpie" type="462c0819:PsiDirectoryNode" />
+              <item name="servers" type="462c0819:PsiDirectoryNode" />
+              <item name="DAIG_SYS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="magpie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magpie" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/magpie/servers/DAIG_SYS/DAIG_SYS.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\magpie" />
+      <recent name="F:\magpie\servers\DAIG_SER" />
+      <recent name="F:\magpie\util\Captcher" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.magpie">
+    <configuration name="02-判断是否是可迭代对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magpie" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/小军/python相关/HM/10-协程/04-代码/day06/02-判断是否是可迭代对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="04-iter函数和next函数的使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magpie" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/小军/python相关/HM/10-协程/04-代码/day06/04-iter函数和next函数的使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="06-生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magpie" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/小军/python相关/HM/10-协程/04-代码/day06/06-生成器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="07-生成器完成斐波那契" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magpie" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/小军/python相关/HM/10-协程/04-代码/day06/07-生成器完成斐波那契.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="09-send方法使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/小军/python相关/HM/10-协程/04-代码/day06" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magpie" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:/小军/python相关/HM/10-协程/04-代码/day06/09-send方法使用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="magpie" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\program\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magpie" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.magpie" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02-判断是否是可迭代对象" />
+      <item index="2" class="java.lang.String" itemvalue="Python.04-iter函数和next函数的使用" />
+      <item index="3" class="java.lang.String" itemvalue="Python.06-生成器" />
+      <item index="4" class="java.lang.String" itemvalue="Python.07-生成器完成斐波那契" />
+      <item index="5" class="java.lang.String" itemvalue="Python.09-send方法使用" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.09-send方法使用" />
+        <item index="1" class="java.lang.String" itemvalue="Python.07-生成器完成斐波那契" />
+        <item index="2" class="java.lang.String" itemvalue="Python.06-生成器" />
+        <item index="3" class="java.lang.String" itemvalue="Python.04-iter函数和next函数的使用" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02-判断是否是可迭代对象" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\DELL\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1748dd15-07bc-4e04-8721-c9b5ca138a8c" name="Default" comment="" />
+      <created>1530774954253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530774954253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21956521" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53695655" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17430703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981792" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28586957" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53695655" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15831557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981792" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="111" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sysConfig555.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordcloud.jpg" />
+    <entry file="file://G:/小军/python相关/HM/flask/Flask框架-第04天/4-代码/code/migrations/env.py" />
+    <entry file="file://G:/小军/python相关/HM/flask/Flask框架-第04天/4-代码/code/main.py" />
+    <entry file="file://G:/小军/python相关/HM/flask/Flask项目-第07天/4-代码/ihome_python05/ihome_python05/ihome/__init__.py" />
+    <entry file="file://G:/小军/python相关/HM/flask/Flask项目-第07天/4-代码/ihome_python05/ihome_python05/ihome/web_page.py" />
+    <entry file="file://G:/小军/python相关/HM/flask/Flask项目-第07天/4-代码/ihome_python05/ihome_python05/供参考的单一启动文件.py" />
+    <entry file="file://G:/小军/python相关/HM/flask/Flask项目-第07天/4-代码/ihome_python05/ihome_python05/manage.py" />
+    <entry file="file://D:/program/python/Lib/site-packages/gevent/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/12-gevent的使用.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/11-greenlet的使用.py" />
+    <entry file="file://D:/program/python/Lib/site-packages/gevent/greenlet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="6" lean-forward="false" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python/Lib/site-packages/gevent/baseserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="363" column="17" lean-forward="false" selection-start-line="363" selection-start-column="17" selection-end-line="363" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python/Lib/site-packages/gevent/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-998">
+          <caret line="96" column="28" lean-forward="false" selection-start-line="96" selection-start-column="28" selection-end-line="96" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python/Lib/site-packages/gevent/pywsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1206">
+          <caret line="1400" column="8" lean-forward="false" selection-start-line="1400" selection-start-column="8" selection-end-line="1400" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/zxj920837912/Files/taobao(1).py" />
+    <entry file="file://G:/小军/python相关/HM/07-进程/4-代码/day03/08-Queue的使用.py" />
+    <entry file="file://G:/小军/python相关/HM/07-进程/4-代码/day03/09-Queue的演练.py" />
+    <entry file="file://G:/小军/python相关/HM/08-飞鸽发送文件/4-代码/day04/01-进程池.py" />
+    <entry file="file://G:/小军/python相关/HM/08-飞鸽发送文件/4-代码/day04/02-进程池中的queue的使用.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/05-迭代器完成斐波那契.py" />
+    <entry file="file://$PROJECT_DIR$/xx.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/06-生成器.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/07-生成器完成斐波那契.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/08-生成器使用return关键字.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/10-协程.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/09-send方法使用.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/04-iter函数和next函数的使用.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/03-自定义可迭代对象.py" />
+    <entry file="file://G:/小军/python相关/HM/10-协程/04-代码/day06/02-判断是否是可迭代对象.py" />
+    <entry file="file://D:/program/python/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/program/python/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9174">
+          <caret line="444" column="8" lean-forward="false" selection-start-line="444" selection-start-column="8" selection-end-line="444" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/SMS/sms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xj.py" />
+    <entry file="file://$PROJECT_DIR$/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/util/DBHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="76" column="32" lean-forward="false" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverConfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBUS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SER/DAIG_SERDao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="122" column="8" lean-forward="false" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
+          <folding>
+            <marker date="1537263716389" expanded="true" signature="176:245" ph="select count... _" />
+            <marker date="1537263716389" expanded="true" signature="471:599" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="767:856" ph="update _questionnaire_q_admin_user set... " />
+            <marker date="1537263716389" expanded="true" signature="1081:1202" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="1386:1591" ph="select B.idx... _" />
+            <marker date="1537263716389" expanded="true" signature="1749:1824" ph="select count... _" />
+            <marker date="1537263716389" expanded="true" signature="3594:3974" ph="select disti... _" />
+            <marker date="1537263716389" expanded="true" signature="3594:4100" ph="select disti... _" />
+            <marker date="1537263716389" expanded="true" signature="3594:4103" ph="select disti... _" />
+            <marker date="1537263716389" expanded="true" signature="3594:4139" ph="select disti... _" />
+            <marker date="1537263716389" expanded="true" signature="3594:4144" ph="select disti... _" />
+            <marker date="1537263716389" expanded="true" signature="3986:4094" ph="select answe... _" />
+            <marker date="1537263716389" expanded="true" signature="5464:5546" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="5749:5828" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="6111:6179" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="6111:6181" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="6616:6699" ph="select max(s... _" />
+            <marker date="1537263716389" expanded="true" signature="6905:6981" ph="select idx f... _" />
+            <marker date="1537263716389" expanded="true" signature="6905:6982" ph="select idx f... _" />
+            <marker date="1537263716389" expanded="true" signature="7177:7251" ph="insert into " />
+            <marker date="1537263716389" expanded="true" signature="7188:7251" ph="select idx f... _" />
+            <marker date="1537263716389" expanded="true" signature="7453:7513" ph="select flag _" />
+            <marker date="1537263716389" expanded="true" signature="7453:7515" ph="select flag _" />
+            <marker date="1537263716389" expanded="true" signature="7683:7764" ph="update _questionnaire_q_enterprise_info set... " />
+            <marker date="1537263716389" expanded="true" signature="7983:8066" ph="update _questionnaire_q_enterprise_info set... " />
+            <marker date="1537263716389" expanded="true" signature="8056:8066" ph="select max(s... _" />
+            <marker date="1537263716389" expanded="true" signature="8284:8460" ph="select max(s... _" />
+            <marker date="1537263716389" expanded="true" signature="10150:10287" ph="select idx,i... " />
+            <marker date="1537263716389" expanded="true" signature="10150:10292" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="10150:10400" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="10527:10669" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="10527:10774" ph="select idx, _" />
+            <marker date="1537263716389" expanded="true" signature="11396:11461" ph="select quest... _" />
+            <marker date="1537263716389" expanded="true" signature="11638:11699" ph="select count... _" />
+            <marker date="1537263716389" expanded="true" signature="11919:11982" ph="select count... _" />
+            <marker date="1537263716389" expanded="true" signature="12195:12260" ph="select quest... _" />
+            <marker date="1537263716389" expanded="true" signature="12429:12490" ph="select idx f... _" />
+            <marker date="1537263716389" expanded="true" signature="12429:12556" ph="select idx f... _" />
+            <marker date="1537263716389" expanded="true" signature="12750:12838" ph="select testI... _" />
+            <marker date="1537263716389" expanded="true" signature="13032:13271" ph="select * fro... question" />
+            <marker date="1537263716389" expanded="true" signature="13046:13238" ph="select quest... _" />
+            <marker date="1537263716389" expanded="true" signature="14259:14318" ph="select quest... _" />
+            <marker date="1537263716389" expanded="true" signature="14259:14347" ph="select * fro... question" />
+            <marker date="1537263716389" expanded="true" signature="14515:14585" ph="select count... _" />
+            <marker date="1537263716389" expanded="true" signature="14845:14912" ph="select count... _" />
+            <marker date="1537263716389" expanded="true" signature="15162:15174" ph="select actL1... _" />
+            <marker date="1537263716389" expanded="true" signature="15162:15274" ph="select actL1... _" />
+            <marker date="1537263716389" expanded="true" signature="15162:15295" ph="select actL1... _" />
+            <marker date="1537263716389" expanded="true" signature="16026:16093" ph="select * fro... _" />
+            <marker date="1537263716389" expanded="true" signature="18640:18700" ph="select l11L2... _" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/DAIG_SYSDao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20256">
+          <caret line="884" column="8" lean-forward="false" selection-start-line="884" selection-start-column="8" selection-end-line="884" selection-end-column="8" />
+          <folding>
+            <element signature="e#16679#16717#0" expanded="false" />
+            <element signature="e#43967#44708#0" expanded="false" />
+            <element signature="e#45585#45817#0" expanded="false" />
+            <element signature="e#45858#46112#0" expanded="false" />
+            <element signature="e#46155#46402#0" expanded="false" />
+            <element signature="e#46440#46855#0" expanded="false" />
+            <element signature="e#46896#47297#0" expanded="false" />
+            <element signature="e#47334#47576#0" expanded="false" />
+            <element signature="e#47619#47861#0" expanded="false" />
+            <element signature="e#47903#48150#0" expanded="false" />
+            <element signature="e#48183#48408#0" expanded="false" />
+            <element signature="e#48450#49122#0" expanded="false" />
+            <element signature="e#49163#50638#0" expanded="false" />
+            <element signature="e#50683#50930#0" expanded="false" />
+            <element signature="e#50974#51395#0" expanded="false" />
+            <element signature="e#51441#51723#0" expanded="false" />
+            <element signature="e#51762#52023#0" expanded="false" />
+            <element signature="e#52071#52334#0" expanded="false" />
+            <element signature="e#52384#52616#0" expanded="false" />
+            <marker date="1537254017836" expanded="true" signature="217:280" ph="select idx f... _" />
+            <marker date="1537254017836" expanded="true" signature="217:294" ph="select idx f... _" />
+            <marker date="1537254017836" expanded="true" signature="217:299" ph="select idx f... _" />
+            <marker date="1537254017836" expanded="true" signature="485:652" ph="select idx f... _" />
+            <marker date="1537254017836" expanded="true" signature="954:1135" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="1471:1580" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="1471:1606" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="1471:1687" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="2030:2094" ph="select id, r... " />
+            <marker date="1537254017836" expanded="true" signature="2030:2108" ph="select id, r... " />
+            <marker date="1537254017836" expanded="true" signature="2575:2643" ph="select level... _" />
+            <marker date="1537254017836" expanded="true" signature="2716:2797" ph="select disti... _" />
+            <marker date="1537254017836" expanded="true" signature="3013:3076" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="3304:3394" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="3585:3650" ph="select quest... _" />
+            <marker date="1537254017836" expanded="true" signature="3834:3901" ph="select `name... _" />
+            <marker date="1537254017836" expanded="true" signature="4068:4126" ph="update _questionnaire_q_test_attribute set... " />
+            <marker date="1537254017836" expanded="true" signature="4074:4126" ph="select hot, _" />
+            <marker date="1537254017836" expanded="true" signature="4353:4434" ph="select idx f... _" />
+            <marker date="1537254017836" expanded="true" signature="4353:4479" ph="select idx f... _" />
+            <marker date="1537254017836" expanded="true" signature="4657:4799" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="4970:5058" ph="select testI... _" />
+            <marker date="1537254017836" expanded="true" signature="5252:5504" ph="select * fro... question" />
+            <marker date="1537254017836" expanded="true" signature="5266:5455" ph="select quest... _" />
+            <marker date="1537254017836" expanded="true" signature="5266:5484" ph="select quest... _" />
+            <marker date="1537254017836" expanded="true" signature="6152:6428" ph="select disti... level1" />
+            <marker date="1537254017836" expanded="true" signature="6152:6429" ph="select disti... level1" />
+            <marker date="1537254017836" expanded="true" signature="6152:6441" ph="select disti... level1" />
+            <marker date="1537254017836" expanded="true" signature="6179:6230" ph="SELECT level... " />
+            <marker date="1537254017836" expanded="true" signature="6179:6301" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="6179:6348" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="6179:6391" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="6626:6688" ph="select enter... _" />
+            <marker date="1537254017836" expanded="true" signature="6626:6690" ph="select enter... _" />
+            <marker date="1537254017836" expanded="true" signature="6857:7012" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="7305:7431" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="7677:7794" ph="delete from _questionnaire_q_answer_detail where... " />
+            <marker date="1537254017836" expanded="true" signature="7995:8078" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="8304:8431" ph="update _questionnaire_q_review_main set... " />
+            <marker date="1537254017836" expanded="true" signature="8304:8443" ph="update _questionnaire_q_review_main set... " />
+            <marker date="1537254017836" expanded="true" signature="8727:9092" ph="select sum(s... questionId" />
+            <marker date="1537254017836" expanded="true" signature="8759:8975" ph="select A.que... _" />
+            <marker date="1537254017836" expanded="true" signature="9296:9697" ph="select C.id id" />
+            <marker date="1537254017836" expanded="true" signature="9296:10197" ph="select C.id id" />
+            <marker date="1537254017836" expanded="true" signature="9445:9545" ph="SELECT id,po... " />
+            <marker date="1537254017836" expanded="true" signature="9445:9562" ph="SELECT id,po... " />
+            <marker date="1537254017836" expanded="true" signature="9445:9652" ph="SELECT id,po... _" />
+            <marker date="1537254017836" expanded="true" signature="9445:9660" ph="SELECT id,po... _" />
+            <marker date="1537254017836" expanded="true" signature="9445:9671" ph="SELECT id, p... _" />
+            <marker date="1537254017836" expanded="true" signature="9445:9685" ph="SELECT id,po... _" />
+            <marker date="1537254017836" expanded="true" signature="9699:9706" ph="SELECT score... _" />
+            <marker date="1537254017836" expanded="true" signature="9699:9762" ph="SELECT expec... " />
+            <marker date="1537254017836" expanded="true" signature="9699:10169" ph="SELECT score... _" />
+            <marker date="1537254017836" expanded="true" signature="9765:9949" ph="SELECT score... _" />
+            <marker date="1537254017836" expanded="true" signature="9963:10132" ph="SELECT score... _" />
+            <marker date="1537254017836" expanded="true" signature="11251:11424" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="11251:11426" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="11695:11875" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="11695:11877" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="12348:12470" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="12348:12534" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="12348:12536" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="13125:13254" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="13125:13318" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="13125:13320" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="14007:14136" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="14007:14226" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="14007:14228" ph="SELECT DISTI... _" />
+            <marker date="1537254017836" expanded="true" signature="14007:14229" ph="SELECT level... _" />
+            <marker date="1537254017836" expanded="true" signature="15133:15190" ph="select po fr... _" />
+            <marker date="1537254017836" expanded="true" signature="15133:15245" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="15372:15440" ph="select flag _" />
+            <marker date="1537254017836" expanded="true" signature="15372:15441" ph="select flag _" />
+            <marker date="1537254017836" expanded="true" signature="15372:15460" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="15372:15462" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="15625:15744" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="15625:15746" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="15925:16056" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="15925:16058" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="16255:16378" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="16255:16398" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="16255:16400" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="18664:18794" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="18951:19089" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="19284:19414" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="19284:19422" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="19284:19429" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="19671:19802" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="19671:19809" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="19671:19824" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="20082:20216" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="20082:20221" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="20082:20243" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="20566:20640" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="20566:20651" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="20869:20947" ph="update _questionnaire_q_model_score set... " />
+            <marker date="1537254017836" expanded="true" signature="20869:20959" ph="update _questionnaire_q_model_score set... " />
+            <marker date="1537254017836" expanded="true" signature="20869:20960" ph="update _questionnaire_q_model_score set... " />
+            <marker date="1537254017836" expanded="true" signature="20875:20904" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="21158:21237" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="22481:22546" ph="select power... _" />
+            <marker date="1537254017836" expanded="true" signature="22481:22548" ph="select power... _" />
+            <marker date="1537254017836" expanded="true" signature="22481:22556" ph="select power... _" />
+            <marker date="1537254017836" expanded="true" signature="22481:22600" ph="select power... _" />
+            <marker date="1537254017836" expanded="true" signature="24261:24307" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="24261:24309" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="24261:24323" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="24504:24619" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="24504:24679" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="24504:24681" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="24999:25349" ph="select A.idx... _" />
+            <marker date="1537254017836" expanded="true" signature="24999:25351" ph="select A.idx... _" />
+            <marker date="1537254017836" expanded="true" signature="25562:25624" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="25717:25865" ph="select * fro... " />
+            <marker date="1537254017836" expanded="true" signature="25717:25944" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="25717:25954" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="25717:25956" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="25717:25969" ph="select n1,n2... _" />
+            <marker date="1537254017836" expanded="true" signature="26166:26239" ph="select qId f... _" />
+            <marker date="1537254017836" expanded="true" signature="26166:26251" ph="select qId f... _" />
+            <marker date="1537254017836" expanded="true" signature="26166:26314" ph="select qId f... _" />
+            <marker date="1537254017836" expanded="true" signature="26166:26326" ph="select qId f... _" />
+            <marker date="1537254017836" expanded="true" signature="26714:26768" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26799" ph="update _questionnaire_q_model_score set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26912" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26920" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26924" ph="update _questionnaire_q_model_score set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26932" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26936" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26959" ph="update _questionnaire_q_model_power_value set... " />
+            <marker date="1537254017836" expanded="true" signature="26714:26998" ph="update _questionnaire_q_model_score set... " />
+            <marker date="1537254017836" expanded="true" signature="28133:28315" ph="select model... _" />
+            <marker date="1537254017836" expanded="true" signature="28133:28317" ph="select model... _" />
+            <marker date="1537254017836" expanded="true" signature="28733:28814" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="29073:29202" ph="select score... _" />
+            <marker date="1537254017836" expanded="true" signature="29377:29456" ph="select score... _" />
+            <marker date="1537254017836" expanded="true" signature="30731:31948" ph="select G.mis... missing_value" />
+            <marker date="1537254017836" expanded="true" signature="30762:31327" ph="select missi... level1" />
+            <marker date="1537254017836" expanded="true" signature="30795:31202" ph="select level... answer" />
+            <marker date="1537254017836" expanded="true" signature="30888:31124" ph="select answe... _" />
+            <marker date="1537254017836" expanded="true" signature="31342:31925" ph="select missi... level1" />
+            <marker date="1537254017836" expanded="true" signature="31381:31796" ph="select level... expectData" />
+            <marker date="1537254017836" expanded="true" signature="31478:31718" ph="select expec... _" />
+            <marker date="1537254017836" expanded="true" signature="33525:33618" ph="select idx,e... " />
+            <marker date="1537254017836" expanded="true" signature="33525:33624" ph="select idx,e... _" />
+            <marker date="1537254017836" expanded="true" signature="33525:33625" ph="select idx, _" />
+            <marker date="1537254017836" expanded="true" signature="33525:33627" ph="select idx,e... _" />
+            <marker date="1537254017836" expanded="true" signature="34965:35025" ph="select l11L2... _" />
+            <marker date="1537254017836" expanded="true" signature="34965:35027" ph="select l11L2... _" />
+            <marker date="1537254017836" expanded="true" signature="35428:35488" ph="select name _" />
+            <marker date="1537254017836" expanded="true" signature="35479:35488" ph="update _questionnaire_q_report_datas set... " />
+            <marker date="1537254017836" expanded="true" signature="35661:35733" ph="update _questionnaire_q_report_datas set... " />
+            <marker date="1537254017836" expanded="true" signature="35661:35735" ph="update _questionnaire_q_report_datas set... " />
+            <marker date="1537254017836" expanded="true" signature="35661:35747" ph="update _questionnaire_q_report_datas set... " />
+            <marker date="1537254017836" expanded="true" signature="35977:36266" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="35977:36350" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="35977:36353" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="35977:36466" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="35977:36474" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="35977:36480" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="37340:37410" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="37340:37412" ph="select .idx,... " />
+            <marker date="1537254017836" expanded="true" signature="37670:37737" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="37670:37739" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="37987:38107" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="37987:38119" ph="select actL1... _" />
+            <marker date="1537254017836" expanded="true" signature="37987:38120" ph="select actL1... _" />
+            <marker date="1537254017836" expanded="true" signature="38851:38908" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="38851:38918" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="38851:38920" ph="select * fro... _" />
+            <marker date="1537254017836" expanded="true" signature="40473:40606" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="40746:40875" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="40746:40887" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="40746:40890" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="41141:41205" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="41452:41517" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="41762:41828" ph="select creat... _" />
+            <marker date="1537254017836" expanded="true" signature="42052:42179" ph="select idx, _" />
+            <marker date="1537254017836" expanded="true" signature="42363:42424" ph="select isAct... _" />
+            <marker date="1537254017836" expanded="true" signature="42650:42731" ph="update _questionnaire_q_user_info set... " />
+            <marker date="1537254017836" expanded="true" signature="42949:43014" ph="update _questionnaire_q_user_info set... " />
+            <marker date="1537254017836" expanded="true" signature="43206:43289" ph="select idx, _" />
+            <marker date="1537254017836" expanded="true" signature="43477:43843" ph="select A.idx... _" />
+            <marker date="1537254017836" expanded="true" signature="44838:45144" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="52719:52777" ph="delete from _questionnaire_q_user_info where... " />
+            <marker date="1537254017836" expanded="true" signature="52995:53074" ph="update _questionnaire_q_user_info set... " />
+            <marker date="1537254017836" expanded="true" signature="52995:53075" ph="update _questionnaire_q_user_info set... " />
+            <marker date="1537254017836" expanded="true" signature="52995:53078" ph="update _questionnaire_q_user_info set... " />
+            <marker date="1537254017836" expanded="true" signature="53061:53074" ph="select max(s... _" />
+            <marker date="1537254017836" expanded="true" signature="53290:53355" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="53608:53712" ph="insert into " />
+            <marker date="1537254017836" expanded="true" signature="53922:53967" ph="select count... _" />
+            <marker date="1537254017836" expanded="true" signature="54192:54249" ph="insert into " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SER/DAIG_SER.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#369#2203#0" expanded="false" />
+            <element signature="e#2250#3842#0" expanded="false" />
+            <element signature="e#3917#5953#0" expanded="false" />
+            <element signature="e#6027#11016#0" expanded="false" />
+            <element signature="e#11059#11993#0" expanded="false" />
+            <element signature="e#12072#13659#0" expanded="false" />
+            <element signature="e#13741#15151#0" expanded="false" />
+            <element signature="e#15229#16050#0" expanded="false" />
+            <element signature="e#16125#17131#0" expanded="false" />
+            <element signature="e#17211#21168#0" expanded="false" />
+            <element signature="e#21241#25215#0" expanded="false" />
+            <element signature="e#25265#29873#0" expanded="false" />
+            <element signature="e#29949#33184#0" expanded="false" />
+            <element signature="e#33218#33360#0" expanded="false" />
+            <element signature="e#33394#33453#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/emailTpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/emailCode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/CommonDag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2114">
+          <caret line="219" column="32" lean-forward="false" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/DAIG_SYS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="1455" column="14" lean-forward="true" selection-start-line="1455" selection-start-column="14" selection-end-line="1455" selection-end-column="14" />
+          <folding>
+            <element signature="e#50052#53795#0" expanded="false" />
+            <element signature="e#58979#64213#0" expanded="false" />
+            <element signature="e#64254#65599#0" expanded="false" />
+            <element signature="e#65636#67861#0" expanded="false" />
+            <element signature="e#67928#71735#0" expanded="false" />
+            <element signature="e#71808#76739#0" expanded="false" />
+            <element signature="e#76817#80164#0" expanded="false" />
+            <element signature="e#80237#81257#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SER/CommonDag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servers/DAIG_SYS/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3426">
+          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sysConfig555.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sysConfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

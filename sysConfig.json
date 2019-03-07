@@ -1,0 +1,28 @@
+{
+    "esb": {
+        "host": "10.10.11.210",
+        "port": 3000,
+        "DNS": ["masterExtend002"]
+    },
+    "ibus": {
+        "host":"0.0.0.0",
+        "port":3020,
+        "DNS": ["masterExtend002"],
+        "objectId":"extend002",
+        "type":"extend",
+        "name":"extend002",
+        "password": "C2F1366C51911B52369FE27DF307FF84",
+        "sendLogin": 15
+    },
+    "DB": {
+        "host": "10.10.11.230",
+        "port": 3306,
+        "user": "root",
+        "password": "root@123",
+        "database": "diagnose",
+        "connectionLimit": 10,
+        "waitForConnections": false,
+        "maxReconnectCount": 10,
+        "charset": "utf8"
+    }
+}
